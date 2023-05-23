@@ -7,5 +7,5 @@ This bash script uses xMedCon CLI to convert `.nii` to `.dcm` in a folder struct
 ### unzip
 This bash script uses unzip to unpack/unzip all `.zip` files in a folder structure.
 
-### mddcm
+### moddcm
 This bash script uses dcmodify tool from dcmtk toolkit to modify specified dicom tags of `.dcm` files in a folder structure.
